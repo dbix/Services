@@ -1,4 +1,4 @@
 Services
 ========
 
-My personal Finder services for OS X
+Any services I've created for personal use go here.
